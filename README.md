@@ -1,2 +1,0 @@
-# gillespie
- Gillespie Algorithm
